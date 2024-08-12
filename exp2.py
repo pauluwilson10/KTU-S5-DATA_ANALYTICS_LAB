@@ -65,3 +65,4 @@ if __name__ == "__main__":
         for j in range(i + 1, len(normalized_records)):
             dissimilarity = mixed_dissimilarity(normalized_records[i], normalized_records[j], attribute_types)
             print(f"Dissimilarity between Record {i + 1} and Record {j + 1}: {dissimilarity:.4f}")
+            
