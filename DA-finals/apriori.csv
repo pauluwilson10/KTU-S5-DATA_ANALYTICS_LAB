@@ -1,0 +1,11 @@
+a,b,c
+mango,apple,watermelon
+mango,orange,grapes
+mango,grapes,watermelon
+apple,mango,orange
+apple,mango,orange
+apple,grapes,mango
+mango,grapes,watermelon
+apple,grapes,orange
+apple,mango,watermelon
+apple,mango,grapes
